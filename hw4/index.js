@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'During this winter of 1816 the master composed the fine sonata in A, opus 101, for her.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'The shrinkage is unequal in different directions and in different portions of the same piece.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'He must carry out his conversion to the end and live as a hermit after the manner of Antony and the solitaries of the Thebaid.'      
 };
 
 function status(statusText) {
