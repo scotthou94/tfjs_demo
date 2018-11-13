@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'The loss by death of three of Beethoven's old friends must have been greatly felt by him in these years.',
+      'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example2':
-      'High temperatures are very effective in evaporating the water from wood.',
+      'Buda-Pesth seems a wonderful place.',
   'example3':
-      'He himself began to see that he would do better not to philosophize so much and to draw nearer the Scripture, in listening to the wisdom of that with a contrite and humble heart.'
+      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
 };
 
 function status(statusText) {
